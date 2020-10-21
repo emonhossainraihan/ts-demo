@@ -29,4 +29,4 @@ function addHandle(
     cb(result)
 }
 
-const Handler = addHandle(2, 3, printResult)
+const Handler = addHandle(3, 3, printResult)
